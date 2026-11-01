@@ -1,4 +1,5 @@
 .terraform/
 *.tfvars
 *.tfplan
+terraform.tfstate.backup
 crash.log
